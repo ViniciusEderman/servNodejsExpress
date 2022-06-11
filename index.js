@@ -12,7 +12,7 @@ app.post("/sendmail", (req, res) => {
       from: "email <email>", // escreva o email de teste
       to: "", // email do recptor 
       subject: "", //assunto do email
-      text: "", // textod o email
+      text: "", // texto do email
     })
     .then((message) => {
       res.send(message);
