@@ -10,7 +10,7 @@ app.post("/sendmail", (req, res) => {
   email
     .sendMail({
       from: "vinicius ederman <vinicius-edermanmc@hotmail.com>",
-      to: "arthur.gomes@elife.com.br",
+      to: "layssa.lms0@gmail.com",
       subject: "Hi, teste do meu serv",
       text: "Hi, tudo bem? Me chamo Vinicius isso é apenas um test",
     })
