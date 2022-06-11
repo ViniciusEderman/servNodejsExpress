@@ -1,0 +1,19 @@
+{
+  "name": "servnodejsexpress",
+  "version": "1.0.0",
+  "description": "Serv done with nodejs and express + mailserv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusEderman/servNodejsExpress.git"
+  },
+  "author": "vinicius ederman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusEderman/servNodejsExpress/issues"
+  },
+  "homepage": "https://github.com/ViniciusEderman/servNodejsExpress#readme"
+}
