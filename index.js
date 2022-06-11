@@ -3,16 +3,16 @@ require('dotenv').config({path: __dirname + '/.env'})
 const express = require("express");
 const nodemailer = require("nodemailer");
 const app = express();
-const port = 8000; // porta de acesso ao serv
+const port = 3000; // porta de acesso ao serv
 
 //rota do serv:
 app.post("/sendmail", (req, res) => {
   email
-    .sendMail({
-      from: "vinicius ederman <vinicius-edermanmc@hotmail.com>",
-      to: "layssa.lms0@gmail.com",
-      subject: "Hi, teste do meu serv",
-      text: "Hi, tudo bem? Me chamo Vinicius isso é apenas um test",
+    .sendMail({ 
+      from: "email <email>", // escreva o email de teste
+      to: "", // email do recptor 
+      subject: "", //assunto do email
+      text: "", // textod o email
     })
     .then((message) => {
       res.send(message);
@@ -34,6 +34,7 @@ app.listen(port, () => {
 
 console.log(process.env.EMAIL);
 
+//transportador outlook 
 let email = nodemailer.createTransport({
   host: "smtp-mail.outlook.com",
   secureConnection: false,
