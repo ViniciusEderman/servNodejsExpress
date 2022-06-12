@@ -1,5 +1,5 @@
 # 🤞 In this project, you will to saw my aplication with express and nodemailer 🤞
- I made this project to improve my backend capabilities
+ I made this project to improve my backend skills
  <br>
 
 # 🖥️ About the future of the project:
@@ -8,7 +8,7 @@
  {thanks for reading so far}
 
 # ⚡ About my project:
- Base of material used 
+ 'Material used'
     <br>
     link: <br>
     https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction
