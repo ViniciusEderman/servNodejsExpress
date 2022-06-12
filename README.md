@@ -24,23 +24,23 @@
  -Use the postman for send the email
 
 # 🖥️ Note:
-    At post method you need to change some things:
-    .sendMail({ 
-      from: "email <email>", 
-      // write your email
-      to: "", 
-      // email receptor
-      subject: "", 
-      //the subject of email
-      text: "", 
-      // the text used at email
-    ------------------------------------------------------------
+  At post method you need to change some things:
+   .sendMail({ 
+     from: "email <email>", 
+     // write your email
+     to: "", 
+     // email receptor
+     subject: "", 
+     //the subject of email
+     text: "", 
+     // the text used at email
+ ------------------------------------------------------------
     // Have a password and email at .env:
       auth: {
         user: process.env.EMAIL,
         pass: process.env.SENHA,
         Create a .env file and put yout email and password
-    ------------------------------------------------------------
+ ------------------------------------------------------------
     "dependencies": {
         "dotenv": "^16.0.1",
         "express": "^4.18.1",
