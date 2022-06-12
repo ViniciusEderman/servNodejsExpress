@@ -22,5 +22,4 @@
  <br>
  After do this, you need to download the dependencies and start with npm start, and use the postman for send the email
 
-# 🖥️ NOTE:
-    
+# 🖥️ Note:
