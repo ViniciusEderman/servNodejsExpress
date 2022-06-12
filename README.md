@@ -1,4 +1,4 @@
-# 🤞 In this project, you will to saw my project with express and nodemailer 🤞
+# 🤞 In this project, you will to saw my aplication with express and nodemailer 🤞
  I made this project to improve my backend capabilities
  <br>
 
