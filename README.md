@@ -35,7 +35,7 @@
       text: "", 
       // the text used at email
     ------------------------------------------------------------
-      // Have a password and email at .env:
+    // Have a password and email at .env:
       auth: {
         user: process.env.EMAIL,
         pass: process.env.SENHA,
