@@ -4,19 +4,16 @@
 
 # 🖥️ About the future of the project:
  This project is finished, but I want to keep traine more things about the nodeJS
- <br> 
- <br>
+
  {thanks for reading so far}
- <br>
 
 # ⚡ About my project:
  Base of material used
- link: 
- https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction
- <br>
+    link: 
+    https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction
+
  REMEMBER IF:
- <br>
- I will to be a full stack developer. I promisse 
+    I will to be a full stack developer. I promisse 
 
 # 💬 Start the aplication:
  You need to clone my repository,
