@@ -40,3 +40,9 @@
         user: process.env.EMAIL,
         pass: process.env.SENHA,
         Create a .env file and put yout email and password
+    ------------------------------------------------------------
+    "dependencies": {
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "nodemailer": "^6.7.5",
+        "nodemon": "^2.0.16"
