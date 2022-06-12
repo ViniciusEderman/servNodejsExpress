@@ -34,6 +34,7 @@
       //the subject of email
       text: "", 
       // the text used at email
+    ------------------------------------------------------------
       // Have a password and email at .env:
       auth: {
         user: process.env.EMAIL,
