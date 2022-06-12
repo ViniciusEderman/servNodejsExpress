@@ -13,8 +13,8 @@
     link: <br>
     https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction
 
- REMEMBER IF:
-    I will to be a full stack developer. I promisse 
+ REMEMBER IF: <br>
+    "I will to be a full stack developer. I promisse" 
 
 # 💬 Start the aplication:
  You need to clone my repository,
