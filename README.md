@@ -24,8 +24,8 @@
  -Use the postman for send the email
 
 # 🖥️ Note:
-  At post method you need to change some things:
-   .sendMail({ 
+    At post method you need to change some things:
+    .sendMail({ 
      from: "email <email>", 
      // write your email
      to: "", 
