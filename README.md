@@ -17,9 +17,11 @@
     "I will to be a full stack developer. I promisse" 
 
 # 💬 Start the aplication:
- You need to clone my repository,
+ -You need to clone my repository,
  <br>
- After do this, you need to download the dependencies and start with npm start, and use the postman for send the email
+ -After do this, you need to download the dependencies and start with npm start, 
+ <br>
+ -Use the postman for send the email
 
 # 🖥️ Note:
     At post method you need to change some things:
@@ -32,3 +34,8 @@
       //the subject of email
       text: "", 
       // the text used at email
+      // Have a password and email at .env:
+      auth: {
+        user: process.env.EMAIL,
+        pass: process.env.SENHA,
+        Create a .env file and put yout email and password
