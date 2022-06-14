@@ -3,7 +3,6 @@ require('dotenv').config({path: __dirname + '/.env'})
 const express = require("express");
 const nodemailer = require("nodemailer");
 //------------------------requires acima ^^ 
-
 const app = express();
 const port = 3000; // Você pode alterar a porta do serv; exemplo: 8000, 8080. Porém, eu recomendo para este caso usar o padrão 3000
 
